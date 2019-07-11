@@ -1,0 +1,3 @@
+{"house_hash":"Qmb2g91ZyZNoYyRzt46rViJZcmaVM4KZjwTawC8zxxqxSG","lease_inter":"3","house_id_hash":"mktcfvPwqeeYZJz4JcjkRQ==","elevator":"true","city":"济南市","house_type":"2","lease_type":"1","lease":"1300","sector":"历下区","commu_name":"齐鲁软件园","provi":"山东省"}
+{"house_hash":"QmYdy7GwT3YigT3ADgUQiEU9hLfN3gWWXomXuyVWbzFa5w","lease_inter":"3","house_id_hash":"mktcfvPwqeeYZJz4JcjkRQ==","elevator":"true","city":"济南市","house_type":"2","lease_type":"1","lease":"1300","sector":"历下区","commu_name":"齐鲁软件园","provi":"山东省"}
+{"house_hash":"QmQQGPGiCYsSHR2je1c6ZVj4eQg3mqjzv7XA9hphLLz11c","lease_inter":"3","house_id_hash":"qZ5reewlNw269GTteuYtMw==","elevator":"true","city":"济南市","house_type":"2","lease_type":"1","lease":"1300","sector":"历下区","commu_name":"齐鲁软件园","provi":"山东省"}
